@@ -1,10 +1,30 @@
 {
   "packs": [
-    "TrumpFacesSPACK_batch_webp.json",
-    "videomemepack_batch_webp.json",
-    "The_Office_NBC_batch_webp.json",
-    "doggiesbynorufx_by_fStikBot_batch_webp.json",
-    "Meme_stickers_batch_webp.json"
+    {
+      "id": "trumpfaces",
+      "title": "TrumpFacesSPACK_batch_webp",
+      "json_url": "TrumpFacesSPACK_batch_webp.json"
+    },
+    {
+      "id": "videomemepack",
+      "title": "videomemepack_batch_webp",
+      "json_url": "videomemepack_batch_webp.json"
+    },
+    {
+      "id": "office",
+      "title": "The_Office_NBC_batch_webp",
+      "json_url": "The_Office_NBC_batch_webp.json"
+    },
+    {
+      "id": "doggies",
+      "title": "doggiesbynorufx_by_fStikBot_batch_webp",
+      "json_url": "doggiesbynorufx_by_fStikBot_batch_webp.json"
+    },
+    {
+      "id": "memes",
+      "title": "Meme_stickers_batch_webp",
+      "json_url": "Meme_stickers_batch_webp.json"
+    }
   ],
   "homeserver_url": "https://matrix.suranjan.cloud"
 }
